@@ -108,12 +108,3 @@ For inquiries (NDA, collaboration, or research interest):
 (Author is a native Korean speaker; English assistance was provided by AI.)
 
 
-
-본 프레임워크의 기반이 된 모든 감정 로그·철학적 기록·재구성 단계 자료는 한국어 원문으로 작성되었습니다.
-현재 공개된 문서는 OpenAI ChatGPT의 도움을 받아 영어로 번역·정리된 버전입니다.
-
-원문은 매우 개인적이지만 구조화된 감정 데이터로 구성되어 있으며,
-필요 시 NDA 체결 후 한국어 원문 설명 / 해석 / 추가 자료 제공이 가능합니다.
-
-본 저장소는 개념 및 구조적 요약만 포함하며,
-원문 데이터는 외부 기관의 연구·분석 목적에서만 제한적으로 공유될 수 있습니다.
