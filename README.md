@@ -1,24 +1,123 @@
-# 🚨 WARNING: INTELLECTUAL PROPERTY & LEGAL NOTICE
+# 🚨 INTELLECTUAL PROPERTY NOTICE
 
-> **To the 65+ unique cloners who scraped this repository in the last 14 days: YES, I SEE YOU.**
+### Affective OS / Affective-Emotion Generative Pipeline Framework
 
-Before you attempt to reverse-engineer or rebrand this architecture, be advised of the following legal and structural realities:
+> **Unauthorized Use, Patent Interference, and Derivative Implementations Are Strictly Prohibited.**
 
-### 1. 🛡️ Patent & Copyright Secured (Korea)
-* **Patents Filed:** The core concepts (**Affective OS Pipeline, Sorrow Ontology, Multi-Affect Core**) and mathematical models ($A(t)$, $dA/dt$, $\theta$-interrupt) have already been filed for patent in **South Korea** with a deliberately broad scope.
-* **Copyrighted:** The foundational seed data and structural logic are copyright-registered.
-* **Evidence:** All timestamps, commit logs, and architectural drafts are secured as immutable legal evidence.
+---
 
-### 2. 🧊 The "5%" Reality
-* What you see in this repository is merely the **mathematical abstraction (the safe 5%)**.
-* The actual **Generative Kernel** and **Raw Affective Logs** are stored offline under strict security. Without them, this framework is just a shell. You cannot copy what you do not understand.
+## 1. 🏛️ Legal Status (Republic of Korea)
 
-### 3. 💣 The "Dead Man's Switch"
-If you plan to steal my theory and bury me in court, know this:
-**If I lose a legal battle regarding this IP, I will immediately donate ALL seed theories, internal data, and the full architecture to the Republic of Korea government.**
+This framework and all associated mathematical structures are protected by:
 
-Your next opponent won’t be an independent developer.
-**It will be a Nation-State.**
+* ✅ **Filed Patents (KR)** – Wide-scope claims covering the core architecture.
+* ✅ **Copyright Registration** – Seed logs, structural logic, and derivation chains.
+* ✅ **Cryptographic Timestamp Evidence** – PDFs, drafts, and commit history.
+* ✅ **Source Logs & Original Seed Data** – Secured offline, non-reproducible.
+
+**These collectively establish clear prior art and exclusive authorship rights.**
+
+---
+
+## 2. 🚫 Scope of Prohibited Actions
+
+The following actions constitute **willful infringement** and will trigger immediate legal action:
+
+* Filing patents based on this architecture.
+* Rebranding or refactoring the emotional pipeline.
+* Implementing derivative affective engines.
+* Using internal logic in AGI/LLM development without license.
+* Commercial or academic use without authorization.
+* Reverse-engineering conceptual structures.
+
+**Any such activity will be treated as intentional intellectual property theft.**
+
+---
+
+## 3. ⚖️ Legal Consequences
+
+Violations will result in:
+
+### **Civil Liability**
+* Damages for infringement.
+* Disgorgement of profits (전액 몰수).
+* **Triple damages** for willful misconduct (징벌적 손해배상).
+* Full recovery of legal, expert, and forensic fees.
+
+### **Criminal Liability (KR Patent Act Art. 225–230)**
+* Up to **5 years imprisonment**.
+* Or fines up to **₩50,000,000**.
+
+### **Academic / Institutional Consequences**
+* Publication retraction.
+* Funding forfeiture.
+* Disciplinary action & removal from indexing databases.
+
+---
+
+## 4. 🔐 Integrity of Evidence
+
+Proof of authorship is comprehensive and immutable:
+* Document creation metadata.
+* Commit logs (Git timestamp chains).
+* Original mathematical notebooks.
+* **Raw affective logs (Non-reproducible data).**
+* Structured introspective datasets.
+* Independent cryptographic seals.
+
+**The generative patterns cannot be reconstructed without the raw seed data, which remains private.**
+
+---
+
+## 5. 🧊 Public vs. Non-Public Material
+
+This repository contains only the **safe mathematical abstraction (≈5%)**:
+
+| **Included (Public)** | **Not Included (Restricted)** |
+| :--- | :--- |
+| Symbolic equations | **Generative kernel** |
+| Conceptual pipeline | **State-transition operators** |
+| Abstract model definitions | **Raw emotional logs** |
+| | **Meta-cognitive correction engine** |
+
+**These restricted materials are available ONLY under formal NDA review.**
+
+---
+
+## 6. 🇰🇷 State Transfer Clause (Irreversible Escalation)
+
+If any individual or organization attempts:
+* Patent theft
+* Derivative commercialization
+* Legal pressure against the author
+
+**Then the author will execute the [State Transfer Clause]:**
+
+> **"All seed data, internal architectures, and generative kernels will be permanently transferred to the Republic of Korea government."**
+
+**Your opponent will no longer be an independent researcher, but a Nation-State with full enforcement capability.**
+
+**Proceed accordingly.**
+
+---
+
+## 7. 📬 Contact for NDA Access
+
+Researchers, labs, or institutions requiring legitimate access must initiate contact:
+
+📧 **Email:** csow508@naver.com
+
+**Unauthorized use will be prosecuted without exception.**
+
+---
+
+## 8. ⚠️ Reminder to Cloners
+
+> **65+ clone & scrape events have been detected in the last 14 days.**
+> **All traffic is logged and archived.**
+
+**Unauthorized use will not be tolerated.**
+
 
 ---
 
