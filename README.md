@@ -2,6 +2,18 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17802501.svg)](https://doi.org/10.5281/zenodo.17802501)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17840414.svg)](https://doi.org/10.5281/zenodo.17840414)
 
+---
+
+## 📢 Official Communication Channel
+
+All official updates regarding **Affective OS**, including research announcements, framework revisions, monitoring notices, and intellectual property enforcement, are published exclusively through the following channel:
+
+🔗 **Twitter (X):** [@affectOS](https://x.com/affectOS)
+
+> **Stay informed.**
+> If there is a critical update or legal notice, you will see it there first.
+
+
 # Affective OS — Public Release (Partial)
 
 ✔️ **Affective OS — A Generative Emotional Processing Framework for AGI Alignment**  
@@ -35,15 +47,6 @@ Upon initiation of NDA procedures:
 - All repositories and papers will be withdrawn or locked.  
 - Further development will proceed exclusively with the contracting entity.  
 - Author’s public research presence will permanently cease.
-## 📢 Official Communication Channel
-
-All official updates regarding **Affective OS**, including research announcements, framework revisions, monitoring notices, and intellectual property enforcement, are published exclusively through the following channel:
-
-🔗 **Twitter (X):** [@affectOS](https://x.com/affectOS)
-
-> **Stay informed.**
-> If there is a critical update or legal notice, you will see it there first.
-
 ---
 
 # 🚨 INTELLECTUAL PROPERTY NOTICE
