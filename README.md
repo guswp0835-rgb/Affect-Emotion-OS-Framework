@@ -273,6 +273,7 @@ For inquiries (NDA, collaboration, or research interest):
 
 
 📧 Email: **csow508@naver.com**  
+📧 Email: **guswp0835@gmail.com**  
 (Author is a native Korean speaker; English assistance was provided by AI.)
 
 
